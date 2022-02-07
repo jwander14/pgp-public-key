@@ -1,3 +1,1 @@
-[PGP public key](sunknudsen.asc) fingerprint: E786 274B C92B 47C2 3C1C &nbsp;F44B 8C9C A674 C47C A060
-
-Not what you expected? Check out [legacy](./legacy).
+[PGP public key](jayanderson.asc) fingerprint: 8B1D 38C3 1B3C 4AF5 681E &nbsp;BCC9 22B6 44FC 73B3 3C45
